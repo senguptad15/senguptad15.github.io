@@ -1,8 +1,9 @@
 ## Accidents Research Project
 
-You can use the [editor on GitHub](https://github.com/senguptad15/senguptad15.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Abstract
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the United States, motor vehicles are the primary means of transportation. Between 2016-2020, 111,839 people have died due to motor accidents, and over 3.5 million accidents have taken place in the same time period. In order, to determine the main causes of accidents in the cities with the highest number of severity 3 and 4 accidents and compare them with cities with lower accident rates to come up with potential solutions. To analyze the data, an ecological study of accidents in the US from 2016 through 2020 was conducted using the dataset ‘US Accidents’ from Kaggle.com. It was observed that the cities with the highest severity 3 and 4 accidents in the US were Los Angeles, Dallas, and Atlanta. To provide potential solutions to reduce the number of accidents in these cities, they were compared to cities with similar population densities and vehicles per household. Los Angeles, Dallas, and Atlanta were compared to Columbus (OH), San Antonio, and St. Louis. While comparing the cities, factors that were taken into consideration were the city layout, weather conditions, and speed limits in and around the city. It was found that heavily populated cities like Los Angeles, Dallas, and Atlanta were unable to cope with the increasing traffic in the cities and that the majority of the accidents occurred on the highways of the cities. It was also noticed that most accidents occurred on weekdays and during hours when people tend to commute to and from their workplaces. After comparing the cities with the highest severity 3 and 4 accidents with similar cities that have lower severity 3 and 4 accidents, it was concluded that increasing public transportation, investing in infrastructures such as underground subways systems and new highways could lower the number of accidents in Los Angeles, Dallas, and Atlanta and help these cities cope with their growing populations.
+
 
 ### Markdown
 
